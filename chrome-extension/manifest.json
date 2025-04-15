@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Vybecode",
+  "version": "1.0",
+  "description": "Redirects new tabs to vybecode.space",
+  "icons": {
+    "16": "icon.svg",
+    "48": "icon.svg",
+    "128": "icon.svg"
+  },
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": []
+} 
