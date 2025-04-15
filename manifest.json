@@ -4,9 +4,9 @@
   "version": "1.0",
   "description": "Redirects new tabs to vybecode.space",
   "icons": {
-    "16": "icon.svg",
-    "48": "icon.svg",
-    "128": "icon.svg"
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
   },
   "chrome_url_overrides": {
     "newtab": "newtab.html"
